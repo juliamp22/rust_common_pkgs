@@ -1,0 +1,22 @@
+[package]
+name = "neo_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Julia Marsal <julia.marsal.robotics@gmail.com>"]
+description = "Basic Ros2 Rust packages"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rclrs = "*"
+std_msgs = "*"
+geometry_msgs = "*"
+asking = "0.0.2"
+anyhow = "*"
+termion = "1.5.6"
+console = "0.14.1"
+crossterm = "0.20.0"
+conio = "*"
+ncurses = "5.101.0"
+rustyline = "7.0"
+termios ="*"

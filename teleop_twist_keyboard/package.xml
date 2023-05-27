@@ -1,0 +1,16 @@
+<package format="3">
+  <name>neo_rust</name>
+  <version>0.0.0</version>
+  <description>Basic Ros2 Rust nodes</description>
+  <maintainer email="julia.marsal.robotics@gmail.com">user</maintainer>
+  <license>MIT</license>
+
+  <depend>rclrs</depend>
+  <depend>std_msgs</depend>  
+  <depend>geometry_msgs</depend>
+
+
+  <export>
+    <build_type>ament_cargo</build_type>
+  </export>
+</package>
