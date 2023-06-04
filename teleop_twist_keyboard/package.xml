@@ -1,7 +1,7 @@
 <package format="3">
-  <name>neo_rust</name>
+  <name>teleop_twist_keyboard</name>
   <version>0.0.0</version>
-  <description>Basic Ros2 Rust nodes</description>
+  <description>Teleop twist keyboard node in rust</description>
   <maintainer email="julia.marsal.robotics@gmail.com">user</maintainer>
   <license>MIT</license>
 
