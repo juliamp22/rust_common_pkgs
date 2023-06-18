@@ -1,0 +1,16 @@
+[package]
+name = "my_package"
+version = "0.1.0"
+authors = ["Your name <your_name@mail.com>"]
+edition = "2021"
+
+[[bin]]
+name = "simple_node"
+path = "src/simple.rs"
+
+[dependencies]
+rclrs = "*"
+anyhow = {version = "1", features = ["backtrace"]}
+
+[package.metadata.ros]
+install_to_share = ["launch"]

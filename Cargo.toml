@@ -2,4 +2,5 @@
 
 members = [
     "teleop_twist_keyboard",
+    "my_package"
 ]

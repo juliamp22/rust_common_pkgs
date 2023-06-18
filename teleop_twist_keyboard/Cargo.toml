@@ -18,3 +18,10 @@ rclrs = "*"
 geometry_msgs = "*"
 anyhow = "*"
 termios ="*"
+sys ="*"
+libc = "0.2"
+
+
+
+[package.metadata.ros]
+install_to_share = ["launch"]
