@@ -1,0 +1,15 @@
+<package format="3">
+  <name>topic_publisher_pkg</name>
+  <version>0.0.0</version>
+  <description>Topic Publisher Package</description>
+  <maintainer email="user@gmail.com">user</maintainer>
+  <license>MIT</license>
+
+  <depend>rclrs</depend>
+  <depend>std_msgs</depend>  
+  <depend>custom_interfaces</depend>  
+
+  <export>
+    <build_type>ament_cargo</build_type>
+  </export>
+</package>

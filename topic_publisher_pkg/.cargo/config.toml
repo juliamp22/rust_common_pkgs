@@ -1,0 +1,92 @@
+[patch.crates-io.action_msgs]
+path = "/home/julia/neobotix_workspace/install/action_msgs/share/action_msgs/rust"
+
+[patch.crates-io.unique_identifier_msgs]
+path = "/home/julia/neobotix_workspace/install/unique_identifier_msgs/share/unique_identifier_msgs/rust"
+
+[patch.crates-io.std_srvs]
+path = "/home/julia/neobotix_workspace/install/std_srvs/share/std_srvs/rust"
+
+[patch.crates-io.std_msgs]
+path = "/home/julia/neobotix_workspace/install/std_msgs/share/std_msgs/rust"
+
+[patch.crates-io.statistics_msgs]
+path = "/home/julia/neobotix_workspace/install/statistics_msgs/share/statistics_msgs/rust"
+
+[patch.crates-io.rosgraph_msgs]
+path = "/home/julia/neobotix_workspace/install/rosgraph_msgs/share/rosgraph_msgs/rust"
+
+[patch.crates-io.rclrs_example_msgs]
+path = "/home/julia/neobotix_workspace/install/rclrs_example_msgs/share/rclrs_example_msgs/rust"
+
+[patch.crates-io.rclrs]
+path = "/home/julia/neobotix_workspace/install/rclrs/share/rclrs/rust"
+
+[patch.crates-io.rcl_interfaces]
+path = "/home/julia/neobotix_workspace/install/rcl_interfaces/share/rcl_interfaces/rust"
+
+[patch.crates-io.lifecycle_msgs]
+path = "/home/julia/neobotix_workspace/install/lifecycle_msgs/share/lifecycle_msgs/rust"
+
+[patch.crates-io.builtin_interfaces]
+path = "/home/julia/neobotix_workspace/install/builtin_interfaces/share/builtin_interfaces/rust"
+
+[patch.crates-io.rosidl_runtime_rs]
+path = "/home/julia/neobotix_workspace/install/rosidl_runtime_rs/share/rosidl_runtime_rs/rust"
+
+[patch.crates-io.visualization_msgs]
+path = "/home/julia/neobotix_workspace/install/visualization_msgs/share/visualization_msgs/rust"
+
+[patch.crates-io.rclrs_tests]
+path = "/home/julia/neobotix_workspace/install/rclrs_tests/share/rclrs_tests/rust"
+
+[patch.crates-io.test_msgs]
+path = "/home/julia/neobotix_workspace/install/test_msgs/share/test_msgs/rust"
+
+[patch.crates-io.examples_rclrs_minimal_client_service]
+path = "/home/julia/neobotix_workspace/install/examples_rclrs_minimal_client_service/share/examples_rclrs_minimal_client_service/rust"
+
+[patch.crates-io.example_interfaces]
+path = "/home/julia/neobotix_workspace/install/example_interfaces/share/example_interfaces/rust"
+
+[patch.crates-io.trajectory_msgs]
+path = "/home/julia/neobotix_workspace/install/trajectory_msgs/share/trajectory_msgs/rust"
+
+[patch.crates-io.stereo_msgs]
+path = "/home/julia/neobotix_workspace/install/stereo_msgs/share/stereo_msgs/rust"
+
+[patch.crates-io.shape_msgs]
+path = "/home/julia/neobotix_workspace/install/shape_msgs/share/shape_msgs/rust"
+
+[patch.crates-io.sensor_msgs]
+path = "/home/julia/neobotix_workspace/install/sensor_msgs/share/sensor_msgs/rust"
+
+[patch.crates-io.neo_rust]
+path = "/home/julia/neobotix_workspace/install/neo_rust/share/neo_rust/rust"
+
+[patch.crates-io.nav_msgs]
+path = "/home/julia/neobotix_workspace/install/nav_msgs/share/nav_msgs/rust"
+
+[patch.crates-io.diagnostic_msgs]
+path = "/home/julia/neobotix_workspace/install/diagnostic_msgs/share/diagnostic_msgs/rust"
+
+[patch.crates-io.geometry_msgs]
+path = "/home/julia/neobotix_workspace/install/geometry_msgs/share/geometry_msgs/rust"
+
+[patch.crates-io.examples_rclrs_minimal_pub_sub]
+path = "/home/julia/neobotix_workspace/install/examples_rclrs_minimal_pub_sub/share/examples_rclrs_minimal_pub_sub/rust"
+
+[patch.crates-io.actionlib_msgs]
+path = "/home/julia/neobotix_workspace/install/actionlib_msgs/share/actionlib_msgs/rust"
+
+[patch.crates-io.examples_rclrs_message_demo]
+path = "/home/julia/neobotix_workspace/install/examples_rclrs_message_demo/share/examples_rclrs_message_demo/rust"
+
+[patch.crates-io.composition_interfaces]
+path = "/home/julia/neobotix_workspace/install/composition_interfaces/share/composition_interfaces/rust"
+
+[patch.crates-io.neo_srvs2]
+path = "/home/julia/neobotix_workspace/install/neo_srvs2/share/neo_srvs2/rust"
+
+[patch.crates-io.neo_msgs2]
+path = "/home/julia/neobotix_workspace/install/neo_msgs2/share/neo_msgs2/rust"

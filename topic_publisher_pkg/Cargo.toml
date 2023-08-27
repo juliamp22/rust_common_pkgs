@@ -1,0 +1,37 @@
+[package]
+name = "topic_publisher_pkg"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "simple_publisher_node"
+path = "src/simple_publisher_node.rs"
+
+[[bin]]
+name = "simple_topic_publisher_composable"
+path = "src/simple_topic_publisher_composable.rs"
+
+[[bin]]
+name = "move_robot_node"
+path = "src/move_robot.rs"
+
+[[bin]]
+name = "publish_age_node"
+path = "src/publish_age.rs"
+
+[[bin]]
+name = "avoid_obstacle"
+path = "src/avoid_obstacle.rs"
+
+[dependencies]
+rclrs = "*"
+std_msgs = "*"
+geometry_msgs = "*"
+anyhow = "*"
+custom_interfaces = "*"
+sensor_msgs = "*"
+
+[package.metadata.ros]
+install_to_share = ["launch"]
